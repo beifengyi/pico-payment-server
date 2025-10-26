@@ -1,0 +1,12 @@
+{
+  "name": "pico-payment-server",
+  "version": "1.0.0",
+  "description": "PICO支付验证服务器",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
